@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Pravin</h1>
+<h1 align="center">Hi 👋, I'm Sarthak</h1>
 <h3 align="center">A passionate Data Science learner from India.</h3>
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **GenAI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pravin-bokare?tab=repositories](https://github.com/pravin-bokare?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sarthak-mallav?tab=repositories](https://github.com/sarthak-mallav?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Deep Learning and Computer Vision.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision and Generative AI.**
 
-- 📫 How to reach me **pravinbokare10@gmail.com**
+- 📫 How to reach me **Soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pravin-bokare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-bokare" height="30" width="40" /></a>
-<a href="https://instagram.com/_pra_win____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pra_win____" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-mallav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-bokare" height="30" width="40" /></a>
+<a href="https://instagram.com/sarthak_mallav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak_mallav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
